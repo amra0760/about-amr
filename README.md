@@ -7,3 +7,4 @@ Schedule
 1) SEP
 2) Spanish
 3) English
+4) US history

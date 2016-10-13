@@ -6,3 +6,4 @@ Amr Almaz was born in Egypt and moved here when he was seven. He currently is in
 Schedule
 1) SEP
 2) Spanish
+3) English

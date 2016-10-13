@@ -10,3 +10,4 @@ Schedule
 4) US history
 5) Math
 6) Lunch
+7) Earth Science

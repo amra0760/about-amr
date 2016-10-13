@@ -11,3 +11,4 @@ Schedule
 5) Math
 6) Lunch
 7) Earth Science
+8) Gym

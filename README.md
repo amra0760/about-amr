@@ -9,3 +9,4 @@ Schedule
 3) English
 4) US history
 5) Math
+6) Lunch

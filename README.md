@@ -2,7 +2,7 @@
 ### Student  
 #### High School of Telecommunications Arts and Technology  
 ##### amra0760@hstat.org  
-Amr Almaz was born in Egypt and moved here when he was seven. He currently is in high school and enjoys playing and watching **Basketball** in his free time. His dream is to be in the in _NBA_ when he grows up and he won't ever give up on it no matter what. As of now though he is working hard to get a basketball scholarship. Right now though he justs wants passget all 90s on his report card. His favorite subjects in school are: 
+Amr Almaz was born in Egypt and moved here when he was seven. He currently is in high school and enjoys playing and watching **Basketball** in his free time. His dream is to be in the in _NBA_ when he grows up and he won't ever give up on it no matter what. As of now though he is working hard to get a basketball scholarship. Right now though he justs wants get all 90s on his report card. His favorite subjects in school are: 
 * Math
 * Gym
 * Science

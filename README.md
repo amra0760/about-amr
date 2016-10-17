@@ -4,11 +4,11 @@ High School of Telecommunications Arts and Technology
 amra0760@hstat.org
 Amr Almaz was born in Egypt and moved here when he was seven. He currently is in high school and enjoys playing and watching Basketball in his free time.
 Schedule
-1) SEP
-2) Spanish
-3) English
-4) US history
-5) Math
-6) Lunch
-7) Earth Science
-8) Gym
+1. SEP
+2. Spanish
+3. English
+4. US history
+5. Math
+6. Lunch
+7. Earth Science
+8. Gym
